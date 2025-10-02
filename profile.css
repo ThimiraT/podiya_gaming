@@ -55,11 +55,12 @@ body {
   font-size: 2rem;
 }
 .socials i {
+  color: #ffffff;
   cursor: pointer;
   transition: 0.3s;
 }
 .socials i:hover {
-  color: #ffffff; /* TikTok blue */
+  color: #73dcff; /* TikTok blue */
 }
 
 /* Views */
